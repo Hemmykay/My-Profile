@@ -1,7 +1,14 @@
-#My Profile
+# My Profile
 
-#########
+This is a detailed article about myself
 
-This is my app
+- Starting out with github
+- Today 23 - Jan 2021
+- This is a personal profile about me and should not be tampered with /Read Only/
 
-########
+## Social Media Link
+
+[Github] (https://gitub.com/Hemmykay)
+
+1. I'm an engineering student
+2. In my early 20's
