@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  max-width: 1000px;
+  box-shadow: #dddddd -0.2em -0em 1em, #dddddd 0.1em 0em 1em;
+  margin: auto;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+a {
+  color: #eeeeee;
+}
+.btn_1 {
+  background-color: #ffcc00;
+  color: #dddddd;
+}
+.header {
+  display: grid;
+  grid-template-rows: repeat(1, 1fr);
+}
+.header_h1 {
+  background-color: #0d1c2b;
+  color: #ffffff;
+  padding: 1em;
+  border-bottom: 0.3em solid #ffcc00;
+  height: 4em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blog {
+  color: #ffcc00;
+}
+.showcase {
+  height: 20em;
+  background-color: #eeeeee;
+}
+.newsletter {
+  height: 3em;
+  background-color: #0d1c2b;
+  border-top: 0.3em solid #ffcc00;
+}
+input {
+  width: 50%;
+}
