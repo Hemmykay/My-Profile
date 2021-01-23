@@ -8,7 +8,7 @@ This is a detailed article about myself
 
 ## Social Media Link
 
-[Github] (https://gitub.com/Hemmykay)
+[Github Profile](https://github.com/Hemmykay)
 
 1. I'm an engineering student
 2. In my early 20's
